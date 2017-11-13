@@ -1,14 +1,13 @@
-# graduation-projects
-
-毕业论文指导
+# guidance of graduationProjects
 
 ## 注意事项
 
-- [毕业设计的建议](suggest.md)
+- [项目规范](suggest.md)
+- [时间安排]()
 
 ## 题目汇总
 
-- [14 级软件学院学生毕业论文题目汇总]()
+- [14 级软件学院学生毕业设计汇总](issue#1)
 
 
 ## 毕设展示
