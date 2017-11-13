@@ -7,7 +7,7 @@
 
 ## 题目汇总
 
-- [14 级软件学院学生毕业设计汇总](issue#1)
+- [14 级软件学院学生毕业设计汇总](https://github.com/liujinmenghaoren/graduation-projects/issues/1)
 
 
 ## 毕设展示
