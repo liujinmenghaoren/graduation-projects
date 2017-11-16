@@ -3,6 +3,6 @@
 书写要求
 
 1. 文件名：姓名 —— 论文题目，如下：  
-![tableTittle](../images/tableTittle.png)
+![fileName](../images/fileName.png)
 2. 主要内容：项目背景，具体需求，基本功能，（高级功能），任务规划,能力要求和提交成果。
 3. 规格：每人写一个任务书，同组同学的题目和内容不要重复。
