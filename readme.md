@@ -3,12 +3,12 @@
 ## 注意事项
 
 - [毕业设计任务书书写规范](./14-18/taskTable.md)
-- [项目规范](suggest.md)
+- [项目建议](suggest.md)
 
 ## 题目汇总
 
-- [14 级软件学院学生毕业设计汇总](https://github.com/liujinmenghaoren/graduation-projects/issues/1)
+- [14 级学生毕业论文题目汇总](./14-18/titles.md)
 
-## 毕设展示
+## 问题汇总
 
-- [14 级软件学院学生毕业设计展示]()
+- [14 级学生毕业论文指导问题汇总](./14-18/questions.md)
